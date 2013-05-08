@@ -1,0 +1,4 @@
+gdbinit
+=======
+
+my .gdbinit
